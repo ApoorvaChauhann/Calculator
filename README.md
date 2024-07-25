@@ -1,2 +1,2 @@
-# Flower-dataset
-Iris flower dataset using python
+# Calculator
+Calculator using python
