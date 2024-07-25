@@ -1,2 +1,2 @@
-# Flower-datasheet
-Iris flower datasheet using python
+# Flower-dataset
+Iris flower dataset using python
